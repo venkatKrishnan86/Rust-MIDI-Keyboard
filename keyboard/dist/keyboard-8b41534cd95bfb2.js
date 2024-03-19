@@ -723,7 +723,7 @@ async function __wbg_init(input) {
     if (wasm !== undefined) return wasm;
 
     if (typeof input === 'undefined') {
-        input = new URL('synth-75b93e98a2e6566e_bg.wasm', import.meta.url);
+        input = new URL('keyboard-8b41534cd95bfb2_bg.wasm', import.meta.url);
     }
     const imports = __wbg_get_imports();
 

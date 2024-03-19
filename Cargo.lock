@@ -951,6 +951,38 @@ dependencies = [
 ]
 
 [[package]]
+name = "keyboard"
+version = "0.1.0"
+dependencies = [
+ "gloo 0.11.0",
+ "keyboard-backend",
+ "keyboard-frontend",
+ "rodio",
+ "stylist",
+ "yew",
+]
+
+[[package]]
+name = "keyboard-backend"
+version = "0.1.0"
+dependencies = [
+ "rand",
+ "rand_distr",
+ "rodio",
+]
+
+[[package]]
+name = "keyboard-frontend"
+version = "0.1.0"
+dependencies = [
+ "gloo 0.11.0",
+ "stylist",
+ "wasm-bindgen",
+ "web-sys",
+ "yew",
+]
+
+[[package]]
 name = "lazy_static"
 version = "1.4.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1628,38 +1660,6 @@ dependencies = [
  "proc-macro2",
  "quote",
  "unicode-ident",
-]
-
-[[package]]
-name = "synth"
-version = "0.1.0"
-dependencies = [
- "gloo 0.11.0",
- "rodio",
- "stylist",
- "synth-backend",
- "synth-frontend",
- "yew",
-]
-
-[[package]]
-name = "synth-backend"
-version = "0.1.0"
-dependencies = [
- "rand",
- "rand_distr",
- "rodio",
-]
-
-[[package]]
-name = "synth-frontend"
-version = "0.1.0"
-dependencies = [
- "gloo 0.11.0",
- "stylist",
- "wasm-bindgen",
- "web-sys",
- "yew",
 ]
 
 [[package]]

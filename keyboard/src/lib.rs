@@ -1,16 +1,16 @@
 use std::collections::HashMap;
 use std::ops::Deref;
-use synth_backend::utils::{decrease_octave, increase_octave};
+use keyboard_backend::utils::{decrease_octave, increase_octave};
 use yew::prelude::*;
 use stylist::yew::styled_component;
 use gloo::console::log;
 use std::rc::Rc;
 
-use synth_frontend::MIDIKeyboard;
+use keyboard_frontend::MIDIKeyboard;
 
-use synth_backend::ring_buffer::PolyphonyRingBuffer;
-use synth_backend::oscillators::*;
-// use synth_backend::utils::midi_to_hz;
+use keyboard_backend::ring_buffer::PolyphonyRingBuffer;
+use keyboard_backend::oscillators::*;
+// use keyboard_backend::utils::midi_to_hz;
 
 #[styled_component(App)]
 pub fn app() -> Html {
