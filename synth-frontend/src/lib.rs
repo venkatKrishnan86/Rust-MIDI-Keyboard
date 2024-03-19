@@ -97,7 +97,7 @@ pub fn midi_keyboard(props: &MIDIKeyboardProperties) -> Html {
         <>
             <KeyboardListener key_down={&key_down} key_up={&key_up}/>
             <div class={black_keys_style}>
-                <div id="corner-left" class="filler" ></div>
+                <div id="corner-left" class="filler"></div>
                 <Key button_class={class_hashmap.deref()[&'W']} label='W' key_color={KeyColor::Black} on_mouse_down={&mouse_down} on_mouse_up={&mouse_up}/>
                 <Key button_class={class_hashmap.deref()[&'E']} label='E' key_color={KeyColor::Black} on_mouse_down={&mouse_down} on_mouse_up={&mouse_up}/>
                 <div class="filler"></div>
