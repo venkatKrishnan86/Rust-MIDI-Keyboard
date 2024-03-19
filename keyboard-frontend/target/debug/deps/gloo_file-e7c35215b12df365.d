@@ -1,9 +1,0 @@
-/Users/venkatakrishnanvk/Desktop/Coding/Rust/Audio Software Introduction/midi-typing-keyboard/keyboard-frontend/target/debug/deps/libgloo_file-e7c35215b12df365.rmeta: /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/lib.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/blob.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_list.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_reader.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/object_url.rs
-
-/Users/venkatakrishnanvk/Desktop/Coding/Rust/Audio Software Introduction/midi-typing-keyboard/keyboard-frontend/target/debug/deps/gloo_file-e7c35215b12df365.d: /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/lib.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/blob.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_list.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_reader.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/object_url.rs
-
-/Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/lib.rs:
-/Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/blob.rs:
-/Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_list.rs:
-/Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/file_reader.rs:
-/Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.3.0/src/object_url.rs:
