@@ -1,2 +1,4 @@
 /target
+/keyboard/dist
+/keyboard-frontend/dist
 .DS_Store
