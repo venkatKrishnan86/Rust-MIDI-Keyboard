@@ -1,0 +1,9 @@
+/Users/venkatakrishnanvk/Desktop/Coding/Rust/Audio Software Introduction/midi-typing-keyboard/keyboard-frontend/target/debug/deps/libthiserror-6b4ccd70f260d6d0.rmeta: /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/lib.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/aserror.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/display.rs
+
+/Users/venkatakrishnanvk/Desktop/Coding/Rust/Audio Software Introduction/midi-typing-keyboard/keyboard-frontend/target/debug/deps/libthiserror-6b4ccd70f260d6d0.rlib: /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/lib.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/aserror.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/display.rs
+
+/Users/venkatakrishnanvk/Desktop/Coding/Rust/Audio Software Introduction/midi-typing-keyboard/keyboard-frontend/target/debug/deps/thiserror-6b4ccd70f260d6d0.d: /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/lib.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/aserror.rs /Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/display.rs
+
+/Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/lib.rs:
+/Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/aserror.rs:
+/Users/venkatakrishnanvk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.58/src/display.rs:
